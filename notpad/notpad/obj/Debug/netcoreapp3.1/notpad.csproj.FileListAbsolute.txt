@@ -1,0 +1,16 @@
+C:\Users\IT LAB\source\repos\notpad\notpad\bin\Debug\netcoreapp3.1\notpad.exe
+C:\Users\IT LAB\source\repos\notpad\notpad\bin\Debug\netcoreapp3.1\notpad.deps.json
+C:\Users\IT LAB\source\repos\notpad\notpad\bin\Debug\netcoreapp3.1\notpad.runtimeconfig.json
+C:\Users\IT LAB\source\repos\notpad\notpad\bin\Debug\netcoreapp3.1\notpad.runtimeconfig.dev.json
+C:\Users\IT LAB\source\repos\notpad\notpad\bin\Debug\netcoreapp3.1\notpad.dll
+C:\Users\IT LAB\source\repos\notpad\notpad\bin\Debug\netcoreapp3.1\notpad.pdb
+C:\Users\IT LAB\source\repos\notpad\notpad\obj\Debug\netcoreapp3.1\notpad.csproj.AssemblyReference.cache
+C:\Users\IT LAB\source\repos\notpad\notpad\obj\Debug\netcoreapp3.1\notpad.Form1.resources
+C:\Users\IT LAB\source\repos\notpad\notpad\obj\Debug\netcoreapp3.1\notpad.csproj.GenerateResource.cache
+C:\Users\IT LAB\source\repos\notpad\notpad\obj\Debug\netcoreapp3.1\notpad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT LAB\source\repos\notpad\notpad\obj\Debug\netcoreapp3.1\notpad.AssemblyInfoInputs.cache
+C:\Users\IT LAB\source\repos\notpad\notpad\obj\Debug\netcoreapp3.1\notpad.AssemblyInfo.cs
+C:\Users\IT LAB\source\repos\notpad\notpad\obj\Debug\netcoreapp3.1\notpad.csproj.CoreCompileInputs.cache
+C:\Users\IT LAB\source\repos\notpad\notpad\obj\Debug\netcoreapp3.1\notpad.dll
+C:\Users\IT LAB\source\repos\notpad\notpad\obj\Debug\netcoreapp3.1\notpad.pdb
+C:\Users\IT LAB\source\repos\notpad\notpad\obj\Debug\netcoreapp3.1\notpad.genruntimeconfig.cache
